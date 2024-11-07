@@ -1,0 +1,7 @@
+{
+  "name": "8lo9",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
